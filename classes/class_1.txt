@@ -1,0 +1,15 @@
+Class: Food
+
+Attributes:
+type (string)
+components (array)
+price (float)
+calories (integer)
+vegetarian (boolean)
+
+Methods:
+presentType (displays <type of food item>)
+listComponents (prints an array of what is included with that food item)
+displayPrice (shows price of food item)
+sortTypePrice (sort types of food item by price)
+sortTypeCalories (sort types of food item by calories)
