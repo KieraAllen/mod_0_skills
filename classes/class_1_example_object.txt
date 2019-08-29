@@ -1,0 +1,21 @@
+Object: Hamburger
+
+Attributes:
+type = "sandwich"
+components = [hamburger patty, tomato, onion, lettuce, cheese, mustard, mayo, fries]
+price = 9.99
+calories = 550
+vegetarian = false
+
+Methods:
+presentType = "sandwich"
+listComponents = [hamburger patty, tomato, onion, lettuce, cheese, mustard, mayo, fries]
+displayPrice = 9.99
+sortTypePrice =
+  Hamburger
+  French Dip
+  Chicken Club
+sortTypeCalories =
+  Chicken Club
+  Hamburger
+  French Dip
