@@ -13,3 +13,5 @@ listComponents (prints an array of what is included with that food item)
 displayPrice (shows price of food item)
 sortTypePrice (sort types of food item by price)
 sortTypeCalories (sort types of food item by calories)
+
+(adding this to have something to save so I can redo commit message)
