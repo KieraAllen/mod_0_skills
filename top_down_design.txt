@@ -1,0 +1,43 @@
+How to Become a Turing Student
+
+1 Decide to pursue an education in software engineering
+  1.1 Reach a point in life where you want a change
+  1.2 Decide that the change involves learning coding
+2 Research coding schools
+  2.1 Ask around if anyone has heard of coding bootcamps
+  2.2 Start following coding accounts on Instagram
+    2.2.1 Eventually ads will be more tailored to you
+    2.2.2 While scrolling, look for ads for bootcamps
+    2.2.3 Research the schools advertised
+  2.3 Peruse https://www.builtincolorado.com/ to learn more about what is available
+    2.3.1 Search for Turing
+    2.3.2 Search a handful of schools found through previous research
+    2.3.3 Create "pros/cons" list of each school
+  2.4 Organize a "Top 3" bootcamps list, using pre-determined criteria
+    2.4.1 Criteria options for top bootcamp
+      2.4.1.1 Size
+      2.4.1.2 Tuition
+      2.4.1.3 Reviews
+      2.4.1.4 Non-profit vs. for profit
+      2.4.1.5 Duration
+      2.4.1.6 Mission
+      2.4.1.7 Graduation success
+      2.4.1.8 Percentage of jobs secured by alums
+    2.4.2 Sort criteria in order of personal importance
+    2.4.3 Determine scale by which to rank criteria
+    2.4.5 Decide which schools most resemble your scale of criteria
+    2.4.6 Choose the top 3
+3 Visit top 3 bootcamps
+  3.1 Set up meetings with students, alums, professors, etc.
+  3.2 Compare campuses
+  3.3 Compare travel time from home
+  3.4 Check out nearby restaurants/breweries
+  3.5 Check out nearby parks
+4 Compare bootcamps' employment reports
+  4.1 View reports from similar time periods
+  4.2 Compare data of top 3 bootcamps
+5 Ask your husband why Turing was his top choice
+  5.1 Is it worth it, can he work it, put the thing down flip it and reverse it?
+  5.2 Learn about the challenges
+  5.3 Get his opinion on how your personality will mesh with the community
+6 Apply to Turing
