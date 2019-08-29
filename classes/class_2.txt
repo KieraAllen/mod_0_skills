@@ -1,0 +1,14 @@
+Class: Staff
+
+Attributes:
+position (string)
+duties (array)
+age (integer)
+shifts (array)
+
+
+Methods:
+listDuties (prints an array of the job responsibilities)
+displayPosition (displays type of job)
+listAge (sort staff by age)
+printShifts (prints list of work shifts)
