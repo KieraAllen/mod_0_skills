@@ -1,0 +1,22 @@
+Object: Waiter
+
+Attributes:
+position = "front of house"
+duties = ["greet visitors", "provide menus", "take orders", "bring food/drinks", "check on table", "present check"]
+age = 23
+shifts = ["Monday dinner", "Tuesday lunch", "Saturday double", "Sunday double"]
+
+
+Methods:
+listDuties ["greet visitors", "provide menus", "take orders", "bring food/drinks", "check on table", "present check"]
+displayPosition = "front of house"
+listAge =
+  waiter
+  busboy
+  cook
+  hostess
+printShifts =
+  "Monday dinner"
+  "Tuesday lunch"
+  "Saturday double"
+  "Sunday double"
